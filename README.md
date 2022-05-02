@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 👋
 
 
 <div id="header" align="center">
@@ -6,7 +6,10 @@
 </div>
 
 Nice to meet you! My name is Andrea Sala.
-I'm currently doing my Master Thesis in Physics. I previously worked as an intern Data Scientist @ IQVIA Integrated Analytics.
+I'm currently doing my Master Thesis in Physics (ML application to Medical Physics).
+I previously worked as an intern Data Scientist @ IQVIA - Integrated Analytics Team.
+
+My repos include mostly university projects and other repos developed just for fun/experimenting new stuff
 
 Feel free to have a stroll around my profile! 😙
 
@@ -27,6 +30,10 @@ Feel free to have a stroll around my profile! 😙
   <a href="https://www.linkedin.com/in/andrea-sala-82a9841b7/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="https://www.instagram.com/andrea_sala">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  
 </div>
 
 <!--
