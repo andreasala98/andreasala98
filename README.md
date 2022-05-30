@@ -2,16 +2,17 @@
 
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" width="200"/>
 </div>
 
 Nice to meet you! My name is Andrea Sala.
-I'm currently doing my Master Thesis in Physics (ML application to Medical Physics).
-I previously worked as an intern Data Scientist @ IQVIA - Integrated Analytics Team.
+- I'm currently doing my Master Thesis in Physics (ML application to Medical Physics) at the Niguarda Hospital.
+- I previously worked as an intern Data Scientist @ IQVIA - Integrated Analytics Team, where I worked on Knowledge Graph Embedding and Graph Neural Networks.
 
 My repos include mostly university projects and other repos developed just for fun/experimenting new stuff
 
-Feel free to have a stroll around my profile! 😙
+Feel free to have a stroll around my profile 😙
+Suggestions to improve my code quality / readability are always welcome! 
 
 
 
