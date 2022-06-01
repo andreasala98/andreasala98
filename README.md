@@ -10,6 +10,7 @@ Nice to meet you! My name is Andrea Sala.
 - I previously worked as an intern Data Scientist @ IQVIA - Integrated Analytics Team, where I worked on Knowledge Graph Embedding and Graph Neural Networks.
 
 My repos include mostly university projects and other repos developed just for fun/experimenting new stuff
+Unfortunately, the repo I'm working on at the moment is private, so it looks like I'm inactive 😂
 
 Feel free to have a stroll around my profile 😙
 Suggestions to improve my code quality / readability are always welcome! 
