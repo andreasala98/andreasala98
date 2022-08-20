@@ -6,7 +6,7 @@
 </div>
 
 Nice to meet you! My name is Andrea Sala.
-- I'm currently doing my Master Thesis in Physics (ML application to Medical Physics) at the Niguarda Hospital.
+- In 2022 I have been carrying out my Master Thesis Project in Physics (ML application to Medical Physics) at the Niguarda Hospital. In particular, I am the core author of a python package called `clearlung` that performs quantitative analysis and ML on lung CT scans, in order to estimate the health level of a lung
 - I previously worked as an intern Data Scientist @ IQVIA - Integrated Analytics Team, where I worked on Knowledge Graph Embedding and Graph Neural Networks.
 
 My repos include mostly university projects and other repos developed just for fun/experimenting new stuff
